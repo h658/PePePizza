@@ -15,8 +15,8 @@ export default function Home() {
       <section className="my-4" id='about'>
         <SectionHeaders subHeader={'Our story'} mainHeader={'About Us'} />
         <div className="mx-auto text-gray-500 text-sm flex flex-col gap-5 text-center max-w-2xl">
-          <p>At PePe Pizza , we're passionate about crafting the perfect slice. With a rich heritage in traditional recipes and a commitment to using only the finest ingredients, our pizzeria is a haven for pizza enthusiasts. From hand-tossed dough to savory toppings, each pizza is a labor of love.</p>
-          <p> Join us on a flavorful journey where quality meets taste, and every bite tells our story of dedication to authentic, mouthwatering pizzas. Whether you're a fan of classic Margherita or daring specialty creations, our mission is to bring joy to your taste buds. </p>
+          <p>At PePe Pizza , we&apos;re passionate about crafting the perfect slice. With a rich heritage in traditional recipes and a commitment to using only the finest ingredients, our pizzeria is a haven for pizza enthusiasts. From hand-tossed dough to savory toppings, each pizza is a labor of love.</p>
+          <p> Join us on a flavorful journey where quality meets taste, and every bite tells our story of dedication to authentic, mouthwatering pizzas. Whether you&apos;re a fan of classic Margherita or daring specialty creations, our mission is to bring joy to your taste buds. </p>
         </div>
       </section>
 
