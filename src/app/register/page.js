@@ -1,4 +1,4 @@
-export default function () {
+const RegisterForm = () =>{
     return (
         <section className="mt-6">
             <h1 className="text-center text-red-600 text-4xl mb-4 font-semibold ">Register</h1>
@@ -17,3 +17,5 @@ export default function () {
     )
 
 }
+RegisterForm.displayName = 'RegisterForm';
+export default RegisterForm;
